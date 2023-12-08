@@ -1,1 +1,1 @@
-![Alt text](https://github.com/Muslehud77/Muslehud77/blob/main/Assets/Blue%20Liquid%20Art%20Design%20Gallery%20Intro%20Video%20(2).gif?raw=true)
+![Alt text](https://github.com/Muslehud77/Muslehud77/blob/main/Assets/banner-muslehud77.gif?raw=true)
