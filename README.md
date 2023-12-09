@@ -37,8 +37,8 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muslehud77&theme=high-contrast" />
 
-<img align="center" src="https://api.githubtrends.io/user/svg/Muslehud77/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" />
-<img align="center" src="https://api.githubtrends.io/user/svg/Muslehud77/langs?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" />
+<div style="display: flex;" ><img align="center" src="https://api.githubtrends.io/user/svg/Muslehud77/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" />
+<img align="center" src="https://api.githubtrends.io/user/svg/Muslehud77/langs?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" /></div>
 
 
 
