@@ -13,7 +13,7 @@
 
 <!-- pinned -->
 ## Top Projects 
-<div style="display: flex;justify-content: center ;">
+<div  align="center" >
      <a target="_blank" href="https://github.com/Muslehud77/photoberry-story">
   <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=photoberry-story" />
 </a>
@@ -21,7 +21,7 @@
   <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Device-Dynasty&theme=dark" />
 </a>
   </div>
-<div style="display: flex;justify-content: center ;;margin-top:10px">
+<div  align="center" >
     <a target="_blank" href="https://github.com/Muslehud77/Crystal-cup-cafe">
   <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Crystal-cup-cafe&theme=dark" />
 </a>
@@ -55,7 +55,24 @@
 
 <!-- statistics -->
 
-<h3 >Statistics</h3>
+## Statistics
+
+<p align="center">
+  <a href="https://github.com/Muslehud77">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Muslehud77">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
+  </a>
+  <a href="https://github.com/Muslehud77">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
+  </a>
+</p>
+
+
+
 
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muslehud77&theme=high-contrast" />
