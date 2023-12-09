@@ -15,7 +15,7 @@
 ## Top Projects 
 <div  align="center" >
      <a target="_blank" href="https://github.com/Muslehud77/photoberry-story">
-  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Photoberry-Story" />
+  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=photoberry-story" />
 </a>
  <a target="_blank" href="https://github.com/Muslehud77/Device-Dynasty">
   <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Device-Dynasty&theme=dark" />
@@ -23,7 +23,7 @@
   </div>
 <div  align="center" >
     <a target="_blank" href="https://github.com/Muslehud77/Crystal-cup-cafe">
-  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Crystal-Cup-Cafe&theme=dark" />
+  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Crystal-cup-cafe&theme=dark" />
 </a>
  <a target="_blank" href="https://github.com/Muslehud77/Talent-Sphere-Contest-Related-App">
   <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Talent-Sphere" />
