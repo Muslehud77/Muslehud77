@@ -15,18 +15,18 @@
 ## Top Projects 
 <div  align="center" >
      <a target="_blank" href="https://github.com/Muslehud77/photoberry-story">
-  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=photoberry-story" />
+  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=Photoberry-Story&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
 </a>
  <a target="_blank" href="https://github.com/Muslehud77/Device-Dynasty">
-  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Device-Dynasty&theme=dark" />
+  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=Device-dynasty&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
 </a>
   </div>
 <div  align="center" >
     <a target="_blank" href="https://github.com/Muslehud77/Crystal-cup-cafe">
-  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Crystal-cup-cafe&theme=dark" />
+   <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=Crystal-cup-cafe&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
 </a>
- <a target="_blank" href="https://github.com/Muslehud77/Talent-Sphere-Contest-Related-App">
-  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Talent-Sphere" />
+ <a target="_blank" href="https://github.com/Muslehud77/Talent-Sphere">
+<img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=Talent-Sphere&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
 </a>
   </div>
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&qColor=%23fff&aColor=%23c4c4c4) -->
@@ -81,3 +81,4 @@
 
 
 
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
