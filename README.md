@@ -36,9 +36,9 @@
 
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muslehud77&theme=high-contrast" />
-<div  style="display: flex;gap:10px; justify-content: center;margin-top:10px"><img align="center" src="https://api.githubtrends.io/user/svg/Muslehud77/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" />
-<img align="center" src="https://api.githubtrends.io/user/svg/Muslehud77/langs?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" /></div>
 
+<img align="center" src="https://api.githubtrends.io/user/svg/Muslehud77/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" />
+<img align="center" src="https://api.githubtrends.io/user/svg/Muslehud77/langs?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" />
 
 
 
