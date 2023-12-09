@@ -57,17 +57,18 @@
 
 ## Statistics
 
-<p align="center">
-  <a href="https://github.com/Muslehud77">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
-  </a>
-</p>
+
 <p align="center">
   <a href="https://github.com/Muslehud77">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
   </a>
   <a href="https://github.com/Muslehud77">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Muslehud77">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
   </a>
 </p>
 
@@ -77,8 +78,6 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muslehud77&theme=high-contrast" />
 
-<!-- <img align="center" src="https://api.githubtrends.io/user/svg/Muslehud77/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" />
-<img align="center" src="https://api.githubtrends.io/user/svg/Muslehud77/langs?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" /> -->
 
 
 
