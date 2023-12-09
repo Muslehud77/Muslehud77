@@ -17,12 +17,12 @@
   <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=photoberry-story" />
 </a>
  <a target="_blank" href="https://github.com/Muslehud77/Device-Dynasty">
-  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Device-Dynasty&theme=transparent" />
+  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Device-Dynasty&theme=dark" />
 </a>
   </div>
 <div style="display: flex;justify-content: center ;gap:10px;margin-top:10px">
     <a target="_blank" href="https://github.com/Muslehud77/Crystal-cup-cafe">
-  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Crystal-cup-cafe&theme=transparent" />
+  <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Crystal-cup-cafe&theme=dark" />
 </a>
  <a target="_blank" href="https://github.com/Muslehud77/Talent-Sphere-Contest-Related-App">
   <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Talent-Sphere-Contest-Related-App" />
@@ -41,4 +41,4 @@
 <img align="center" src="https://api.githubtrends.io/user/svg/Muslehud77/langs?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" /></div>
 
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/0-profile-details.svg)
+
