@@ -9,7 +9,7 @@
 
 <p  align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=muslehud77&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&background=45%2C070076%2C000000" alt="muslehud77" /></p>
 
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&qColor=%23fff&aColor=%23c4c4c4) -->
+
 
 <!-- pinned -->
 ## Top Projects 
@@ -29,7 +29,7 @@
   <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Talent-Sphere" />
 </a>
   </div>
-
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&qColor=%23fff&aColor=%23c4c4c4) -->
 
 <!-- use to code -->
 ## Technologies that I am familiar with
