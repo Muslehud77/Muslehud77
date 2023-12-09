@@ -13,7 +13,7 @@
 
 <!-- pinned -->
 ## Top Projects 
-<div style="display: flex;justify-content: center ;gap:10px">
+<div style="display: flex;justify-content: center ;">
      <a target="_blank" href="https://github.com/Muslehud77/photoberry-story">
   <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=photoberry-story" />
 </a>
@@ -21,7 +21,7 @@
   <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Device-Dynasty&theme=dark" />
 </a>
   </div>
-<div style="display: flex;justify-content: center ;gap:10px;margin-top:10px">
+<div style="display: flex;justify-content: center ;;margin-top:10px">
     <a target="_blank" href="https://github.com/Muslehud77/Crystal-cup-cafe">
   <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Crystal-cup-cafe&theme=dark" />
 </a>
