@@ -7,8 +7,9 @@
  
   
   &emsp; I Briefly introduce yourself as a junior MERN stack developer. <br/><br/>
-  &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- &emsp; Love writing code and learning new features<br/><br/>
+  &emsp; Becoming a skilled full-stack developer mastering diverse web technologies. <br/><br/>
+  &emsp; Enjoy to do programming and sharing knowledge. <br/><br/>
+ &emsp; Love writing code and learning new features.<br/><br/>
  &emsp; Reach me anytime: fardinmohit@gmail.com<br/><br/>
 
 
