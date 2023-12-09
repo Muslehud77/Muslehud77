@@ -1,5 +1,5 @@
 <!-- banner -->
- <a href="https://www.linkedin.com/in/muslehud777/"><img src="https://github.com/Muslehud77/Muslehud77/blob/main/Assets/banner-muslehud77.gif?raw=true" height="auto"  style="border-radius:1%"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/muslehud777/"><img src="https://github.com/Muslehud77/Muslehud77/blob/main/Assets/banner-muslehud77.gif?raw=true" height="auto"  style="border-radius:1%"></a>
 
 
 
@@ -13,18 +13,18 @@
 <!-- pinned -->
 <h3 align="left">Pinned Repositories</h3>
 <div style="display: flex;justify-content: center ;gap:10px">
-    <a href="https://github.com/Muslehud77/photoberry-story">
+     <a target="_blank" href="https://github.com/Muslehud77/photoberry-story">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=photoberry-story&theme=transparent" />
 </a>
-<a href="https://github.com/Muslehud77/Device-Dynasty">
+ <a target="_blank" href="https://github.com/Muslehud77/Device-Dynasty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Device-Dynasty&theme=transparent" />
 </a>
   </div>
 <div style="display: flex;justify-content: center ;gap:10px;margin-top:10px">
-   <a href="https://github.com/Muslehud77/Crystal-cup-cafe">
+    <a target="_blank" href="https://github.com/Muslehud77/Crystal-cup-cafe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Crystal-cup-cafe&theme=transparent" />
 </a>
-<a href="https://github.com/Muslehud77/Talent-Sphere-Contest-Related-App">
+ <a target="_blank" href="https://github.com/Muslehud77/Talent-Sphere-Contest-Related-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muslehud77&repo=Talent-Sphere-Contest-Related-App&theme=transparent" />
 </a>
   </div>
