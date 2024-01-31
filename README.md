@@ -43,7 +43,7 @@
 <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=Talent-Sphere&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
 </a>
   </div>
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&qColor=%23fff&aColor=%23c4c4c4)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&qColor=%23fff&aColor=%23c4c4c4) -->
 
 <!-- use to code -->
 ## Technologies that I am familiar with
