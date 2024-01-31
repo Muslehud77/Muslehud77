@@ -1,11 +1,11 @@
 <!-- banner -->
-  <a target="_blank" href="https://www.linkedin.com/in/muslehud777/"><img src="https://github.com/Muslehud77/Muslehud77/blob/main/Assets/banner-muslehud77.gif?raw=true" height="auto"  style="border-radius:1%"></a>
+<a target="_blank" href="https://www.linkedin.com/in/muslehud777/"><img src="https://github.com/Muslehud77/Muslehud77/blob/main/Assets/banner-muslehud77.gif?raw=true" height="auto"  style="border-radius:1%"></a>
 
 # About me
  
 <p>
  
-👋 Hello there! I'm Sheik Muslehud, a passionate junior MERN stack developer on a journey to master diverse web technologies.
+👋 Hello there! I'm Sheik Musleh Uddin, a passionate junior MERN stack developer on a journey to master diverse web technologies.
 
 💪 My goal? Becoming a skilled full-stack developer, tackling challenges with enthusiasm and continuously expanding my knowledge.
 
@@ -43,7 +43,7 @@
 <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=Talent-Sphere&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
 </a>
   </div>
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&qColor=%23fff&aColor=%23c4c4c4) -->
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&qColor=%23fff&aColor=%23c4c4c4)
 
 <!-- use to code -->
 ## Technologies that I am familiar with
