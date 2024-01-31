@@ -14,13 +14,6 @@
 ❤️ Writing code is not just a task for me; it's a love affair. I thrive on the excitement of learning new features and exploring the endless possibilities of web development.
 
 💬 Feel free to reach out anytime at sheikmuslehud@gmail.com. Let's connect, collaborate, and create amazing things together!
-  
-👋&emsp; I Briefly introduce myself as a junior MERN stack developer. <br/><br/>
-💪&emsp; Becoming a skilled full-stack developer mastering diverse web technologies. <br/><br/>
- ✌️&emsp; Enjoy to do programming and sharing knowledge. <br/><br/>
- ❤️&emsp; Love writing code and learning new features.<br/><br/>
-  💬&emsp; Reach me anytime: sheikmuslehud@gmail.com<br/><br/>
-
 
 </p>
 
