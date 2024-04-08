@@ -1,4 +1,4 @@
-<!-- banner -->
+
 <a target="_blank" href="https://www.linkedin.com/in/muslehud777/"><img src="https://github.com/Muslehud77/Muslehud77/blob/main/Assets/banner-muslehud77.gif?raw=true" height="auto"  style="border-radius:1%"></a>
 
 # About me
