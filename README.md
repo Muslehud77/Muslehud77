@@ -7,7 +7,7 @@
  
 👋 Hello there! I'm Sheik Musleh Uddin, a passionate junior MERN stack developer on a journey to master diverse web technologies.
 
-💪 My goal? Becoming a skilled full-stack developer, tackling challenges with enthusiasm and continuously expanding my knowledge.
+💪 My goal? Becoming a skilled full-stack developer, tackling challenges with enthusiasm, and continuously expanding my knowledge.
 
 ✌️ I find joy in programming and believe in the power of sharing knowledge with the community.
 
@@ -64,7 +64,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React Query](https://img.shields.io/badge/-Tanstack_query-FF4154?style=for-the-badge&labelColor=black&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![](https://komarev.com/ghpvc/?username=muslehud77&style=flat-square)
+
 
 <br/>
 
