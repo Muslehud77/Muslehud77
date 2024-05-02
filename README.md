@@ -64,7 +64,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React Query](https://img.shields.io/badge/-Tanstack_query-FF4154?style=for-the-badge&labelColor=black&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
+![](https://komarev.com/ghpvc/?username=muslehud77&style=flat-square)
 
 <br/>
 
