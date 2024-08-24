@@ -100,6 +100,7 @@ I'm currently focused on improving my consistency in coding and contributing to 
 
 ### UI/UX Design
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)
+![Shadcn](https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&labelColor=black&logo=shadcn&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&labelColor=black&logo=ant-design&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&labelColor=black&logo=framer&logoColor=white)
