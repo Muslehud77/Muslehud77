@@ -90,6 +90,7 @@ I'm currently focused on improving my consistency in coding and contributing to 
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&labelColor=black&logo=react-query&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK%20Query-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&labelColor=black&logo=axios&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
 
 ### Back-End Development
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
@@ -111,7 +112,7 @@ I'm currently focused on improving my consistency in coding and contributing to 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0078D4)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
+
 
 
 ## Statistics
