@@ -26,7 +26,7 @@ I'm currently focused on improving my consistency in coding and contributing to 
 
 <div align="center">
   <a target="_blank" href="https://github.com/Muslehud77/SwiftRental-client">
-    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=-client&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
+    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=SwiftRental-client&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
   </a>
   <a target="_blank" href="https://github.com/Muslehud77/AdventureAlly-client">
     <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=AdventureAlly-client&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
