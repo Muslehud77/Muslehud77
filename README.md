@@ -26,32 +26,34 @@ I'm currently focused on improving my consistency in coding and contributing to 
 
 <div align="center">
   <a target="_blank" href="https://github.com/Muslehud77/SwiftRental-client">
-    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=SwiftRental-client&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
+    <img align="center" style="background-color: black;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Muslehud77&repo=SwiftRental-client&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
   </a>
+
+
   <a target="_blank" href="https://github.com/Muslehud77/AdventureAlly-client">
-    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=AdventureAlly-client&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
+    <img align="center" style="background-color: black;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Muslehud77&repo=AdventureAlly-client&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
   </a>
  
 
   <a target="_blank" href="https://github.com/Muslehud77/Crystal-cup-cafe">
-    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=Crystal-cup-cafe&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
+    <img align="center" style="background-color: black;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Muslehud77&repo=Crystal-cup-cafe&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
   </a>
   
 
   <a target="_blank" href="https://github.com/Muslehud77/Talent-Sphere">
-    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=Talent-Sphere&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
+    <img align="center" style="background-color: black;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Muslehud77&repo=Talent-Sphere&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
   </a>
   
 </div>
 
 <div align="center">
   <a target="_blank" href="https://github.com/Muslehud77/photoberry-story">
-    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=Photoberry-Story&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
+    <img align="center" style="background-color: black;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Muslehud77&repo=Photoberry-Story&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
   </a>
  
 
   <a target="_blank" href="https://github.com/Muslehud77/Device-Dynasty">
-    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=Device-dynasty&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
+    <img align="center" style="background-color: black;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Muslehud77&repo=Device-dynasty&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
   </a>
  
 </div>
@@ -60,12 +62,12 @@ I'm currently focused on improving my consistency in coding and contributing to 
 
 <div align="center">
   <a target="_blank" href="https://github.com/Muslehud77/AdventureAlly-Server">
-    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=AdventureAlly-Server&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
+    <img align="center" style="background-color: black;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Muslehud77&repo=AdventureAlly-Server&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
   </a>
   
 
   <a target="_blank" href="https://github.com/Muslehud77/SwiftRental-Server">
-    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=SwiftRental-Server&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
+    <img align="center" style="background-color: black;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Muslehud77&repo=SwiftRental-Server&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
   </a>
  
  
@@ -74,10 +76,10 @@ I'm currently focused on improving my consistency in coding and contributing to 
 
 <div align="center">
  <a target="_blank" href="https://github.com/Muslehud77/FlightBooking-Server">
-    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=FlightBooking-Server&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
+    <img align="center" style="background-color: black;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Muslehud77&repo=FlightBooking-Server&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
   </a>
   <a target="_blank" href="https://github.com/Muslehud77/Talent-Sphere-server-">
-    <img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api/pin/?username=Muslehud77&repo=Talent-Sphere-server-&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
+    <img align="center" style="background-color: black;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Muslehud77&repo=Talent-Sphere-server-&border_color=07006E&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fff" />
   </a>
  
 </div>
@@ -124,14 +126,14 @@ Here’s a snapshot of my coding activity and language usage on GitHub:
 
 <p align="center">
   <a href="https://github.com/Muslehud77">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
   </a>
   <a href="https://github.com/Muslehud77">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/?username=Muslehud77&theme=dark&hide_rank=true" alt="GitHub Contribution"/>
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Muslehud77">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
-  </a>
+    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime/?username=Muslehud77&theme=dark" alt="GitHub Contribution"/>
+  </a> -->
 </p>
