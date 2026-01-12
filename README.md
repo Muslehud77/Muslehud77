@@ -19,9 +19,7 @@
 I'm currently focused on improving my consistency in coding and contributing to open-source projects. Here's my GitHub streak:
 
 <p align="center">
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muslehud77&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&background=45%2C070076%2C000000)](https://git.io/streak-stats)
- 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=muslehud77&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&background=45%2C070076%2C000000" alt="muslehud77" />
 </p>
 
 
